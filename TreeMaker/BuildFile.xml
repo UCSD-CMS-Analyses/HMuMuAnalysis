@@ -1,0 +1,11 @@
+<use name="DataFormats/Candidate"/>
+<use name="DataFormats/MuonReco"/>
+<use name="DataFormats/PatCandidates"/>
+<use name="TrackingTools/AnalyticalJacobians"/>
+<use name="TrackingTools/TrajectoryParametrization"/>
+<use name="MagneticField/Engine"/>
+<use name="MagneticField/Records"/>
+<use name="RecoParticleFlow/PFClusterTools"/>
+<export>
+    <lib name="1"/>
+</export>
